@@ -26,4 +26,4 @@
 #### Запуск скрипта
 
 -   `python3 -m main.py` в Linux/macOS;
--   `python -m main.py` или `py -3 -m venv venv` в Windows
+-   `python -m main.py` или `py -3 -m main.py` в Windows
